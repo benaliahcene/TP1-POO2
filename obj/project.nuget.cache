@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmVmNTm8cW7lKr3AhgLLku/ENkBKLV3v3UM/FMy3eBF8cI1rvrwFLVFH6hKrNZJLP6E2qsr0LTp5AWspMO5TEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahcene Benali\\Desktop\\TP01_Heart_Diagnostic\\TP01_Heart_Diagnostic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahcene Benali\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
